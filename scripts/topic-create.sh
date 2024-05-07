@@ -1,0 +1,1 @@
+kafka-topics.sh --bootstrap-server localhost:9092 --topic invoice --create --partitions 5 --replication-factor 3

@@ -11,6 +11,7 @@
     <modules>
         <module>storage-demo</module>
         <module>hello-producer</module>
+        <module>multithreaded-producer</module>
     </modules>
 
     <properties>
